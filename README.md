@@ -169,5 +169,5 @@ Included in the notebook:
 **Ayu Putri Vidiantiwi**  
 * 📚 M.S. in Applied Analytics, Columbia University  
 * 📊 Passionate about finance, business, data storytelling, and analytics
-* 🌐 LinkedIn - (https://www.linkedin.com/in/ayuputriv/)
+* 🌐 LinkedIn - https://www.linkedin.com/in/ayuputriv/
 * 📧 ayu.vidiantiwi@columbia.edu
