@@ -1,0 +1,2 @@
+# Fiscal-Impulse-Dynamics-and-Policy-Responses-in-Canada-Brazil-and-Mexico-2015-2026-
+This project analyzes the fiscal stance of Canada, Brazil, and Mexico from 2015–2026 using fiscal impulse calculations and GDP-based seasonal projection models. The analysis evaluates how each country adjusted its fiscal strategy during major shocks—including COVID-19 and the hypothetical Trump 2.0 trade war scenario (2025).
